@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GroupProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/GroupProject</output-path>
+    <root id="archive" name="GroupProject.jar">
+      <element id="module-output" name="fp-2024" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
